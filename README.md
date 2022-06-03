@@ -8,12 +8,12 @@
 
 
 #### Launch at home
-1. Download online.py and libs from requirements.txt.
+1. Download online.py and libs from requirements.txt
 2. Run online.py
 3. Enjoy and don't turn off the script
 
 #### Launch at Heroku
-1. Download online.py, requirements.txt and Procfile.
+1. Download online.py, requirements.txt and Procfile
 2. Where input() is, change to your data (email, password, comid)
 3. Move it to your application on Heroku (check youtube guides)
 4. Enjoy
