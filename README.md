@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">Forever online script for Amino</p>
-<p align="center">Can be used on Heroku.</p>
+<p align="center">Can be used on Heroku</p>
 
 
 #### How to start?
