@@ -89,9 +89,7 @@ def main():
     client = Client()
     client.login(email=input('Email >> '), password=input('Password >> '))
     while True:
-        #for _ in range(24):
         print(f"send_active_object: {client.send_active_object(comId=client.comId, timers=[{'start': int(time.time()), 'end': int(time.time()) + 300} for _ in range(50)], tz=tz_filter())['api:message']}.")
-        # time.sleep(12)
         print('start sleep one hour...')
         time.sleep(3600)
 
